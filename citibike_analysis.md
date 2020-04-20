@@ -29,4 +29,4 @@ Des Moines may not have the same population and bike infrastructure as NY City b
 With presure from other cities the comunities and law makers are prioritizing bike infrastructre improvments and inciatives. 
 With an already existing scenic trails thougougt the city and an incresing young adult demographice make it the perfect place to start a bike bussiness. 
 
-[link to the tableau story](https://public.tableau.com/profile/cristina7290#!/vizhome/Challengetableaustory/Challenge "Challenge Story")
+[Link to the Challenge Story](https://public.tableau.com/profile/cristina7290#!/vizhome/Challengetableaustory/Challenge "Challenge Story")
